@@ -1,0 +1,28 @@
+# Flutter/Dart
+**/\.dart_tool/**
+**/\.pub-cache/**
+**/\.packages**
+**/build/**
+**/ios/Pods/**
+
+# macOS
+**/macos/Flutter/ephemeral/**
+
+# Web
+**/web/index.html**
+
+# Generated files
+*.lock
+*.log
+*.dSYM/*
+**/coverage/**
+**/pubspec.lock**
+
+# Others
+*.jks
+*.keystore
+*.tgz
+*.class
+*.jar
+**/migrations/**
+**/symfony/**
